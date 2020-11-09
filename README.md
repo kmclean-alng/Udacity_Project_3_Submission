@@ -6,6 +6,7 @@ Bikeshare
 
 ### Description
 Project to provide descriptive stats on bikeshare usage for chicago, new york city and washington
+Descriptive stats can be fitered by month or day
 
 ### Files used
 bikeshare.py
