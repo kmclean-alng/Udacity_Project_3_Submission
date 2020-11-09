@@ -241,7 +241,7 @@ def main():
         user_stats(df)
 
         #comment to change in git
-        #this line improve efficiency
+        #In fact, this line improves readability
         raw_data(df)
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
