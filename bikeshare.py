@@ -241,7 +241,7 @@ def main():
         user_stats(df)
 
         #comment to change in git
-        #In fact, this line improves readability
+        #Actually, this line improves readability even more than you thought
         raw_data(df)
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
